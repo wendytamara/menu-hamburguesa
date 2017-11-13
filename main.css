@@ -1,0 +1,37 @@
+body{
+  font-family: verdana;
+}
+
+button{
+  width: 80px;
+}
+
+nav{
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+nav ul li:hover{
+  background: #c3c3c3;
+
+}
+nav ul li a:hover{
+  color: #fff;
+}
+
+.enabled-menu{
+  display: block;
+}
+
+.disabled-menu{
+  display: none;
+}
